@@ -1,0 +1,14 @@
+/* components/Footer.module.css */
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .center-icons {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Adjust the spacing between icons as needed */
+  }
+  
